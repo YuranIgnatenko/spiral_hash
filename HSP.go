@@ -1,4 +1,4 @@
-package HSP
+package spiral_hash
 
 //convert data in spiral, spiral to x,y points
 func GetHash(data []int) (int, int) {
